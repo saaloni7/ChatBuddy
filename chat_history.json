@@ -1,0 +1,252 @@
+[
+  {
+    "session_id": "20251201_230506",
+    "timestamp": "2025-12-01T23:05:37.049583",
+    "message_count": 7,
+    "messages": [
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hello! I'm ChatBuddy Pro, your enhanced AI assistant! \ud83e\udd16\nType 'help' to see what I can do.",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:07.050635"
+      },
+      {
+        "sender": "You",
+        "message": "hi",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:13.110105"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hey! How's your day going?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:13.958164"
+      },
+      {
+        "sender": "System",
+        "message": "\ud83d\udcce Attached: 101 presentation.docx (15.6 KB)",
+        "type": "system",
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "type": "attachment",
+        "filename": "101 presentation.docx",
+        "path": "C:/Users/User/Documents/101 presentation.docx",
+        "size": 15.5791015625,
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "sender": "You",
+        "message": "find summary",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:31.233666"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "I'm not sure I understand. Could you rephrase that?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:32.206110"
+      }
+    ]
+  },
+  {
+    "session_id": "20251201_230506",
+    "timestamp": "2025-12-01T23:06:07.050723",
+    "message_count": 7,
+    "messages": [
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hello! I'm ChatBuddy Pro, your enhanced AI assistant! \ud83e\udd16\nType 'help' to see what I can do.",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:07.050635"
+      },
+      {
+        "sender": "You",
+        "message": "hi",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:13.110105"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hey! How's your day going?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:13.958164"
+      },
+      {
+        "sender": "System",
+        "message": "\ud83d\udcce Attached: 101 presentation.docx (15.6 KB)",
+        "type": "system",
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "type": "attachment",
+        "filename": "101 presentation.docx",
+        "path": "C:/Users/User/Documents/101 presentation.docx",
+        "size": 15.5791015625,
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "sender": "You",
+        "message": "find summary",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:31.233666"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "I'm not sure I understand. Could you rephrase that?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:32.206110"
+      }
+    ]
+  },
+  {
+    "session_id": "20251201_230506",
+    "timestamp": "2025-12-01T23:06:37.048172",
+    "message_count": 7,
+    "messages": [
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hello! I'm ChatBuddy Pro, your enhanced AI assistant! \ud83e\udd16\nType 'help' to see what I can do.",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:07.050635"
+      },
+      {
+        "sender": "You",
+        "message": "hi",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:13.110105"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hey! How's your day going?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:13.958164"
+      },
+      {
+        "sender": "System",
+        "message": "\ud83d\udcce Attached: 101 presentation.docx (15.6 KB)",
+        "type": "system",
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "type": "attachment",
+        "filename": "101 presentation.docx",
+        "path": "C:/Users/User/Documents/101 presentation.docx",
+        "size": 15.5791015625,
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "sender": "You",
+        "message": "find summary",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:31.233666"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "I'm not sure I understand. Could you rephrase that?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:32.206110"
+      }
+    ]
+  },
+  {
+    "session_id": "20251201_230506",
+    "timestamp": "2025-12-01T23:07:07.058599",
+    "message_count": 7,
+    "messages": [
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hello! I'm ChatBuddy Pro, your enhanced AI assistant! \ud83e\udd16\nType 'help' to see what I can do.",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:07.050635"
+      },
+      {
+        "sender": "You",
+        "message": "hi",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:13.110105"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hey! How's your day going?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:13.958164"
+      },
+      {
+        "sender": "System",
+        "message": "\ud83d\udcce Attached: 101 presentation.docx (15.6 KB)",
+        "type": "system",
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "type": "attachment",
+        "filename": "101 presentation.docx",
+        "path": "C:/Users/User/Documents/101 presentation.docx",
+        "size": 15.5791015625,
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "sender": "You",
+        "message": "find summary",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:31.233666"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "I'm not sure I understand. Could you rephrase that?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:32.206110"
+      }
+    ]
+  },
+  {
+    "session_id": "20251201_230506",
+    "timestamp": "2025-12-01T23:07:37.070753",
+    "message_count": 7,
+    "messages": [
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hello! I'm ChatBuddy Pro, your enhanced AI assistant! \ud83e\udd16\nType 'help' to see what I can do.",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:07.050635"
+      },
+      {
+        "sender": "You",
+        "message": "hi",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:13.110105"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "Hey! How's your day going?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:13.958164"
+      },
+      {
+        "sender": "System",
+        "message": "\ud83d\udcce Attached: 101 presentation.docx (15.6 KB)",
+        "type": "system",
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "type": "attachment",
+        "filename": "101 presentation.docx",
+        "path": "C:/Users/User/Documents/101 presentation.docx",
+        "size": 15.5791015625,
+        "timestamp": "2025-12-01T23:05:21.942692"
+      },
+      {
+        "sender": "You",
+        "message": "find summary",
+        "type": "user",
+        "timestamp": "2025-12-01T23:05:31.233666"
+      },
+      {
+        "sender": "ChatBuddy Pro",
+        "message": "I'm not sure I understand. Could you rephrase that?",
+        "type": "bot",
+        "timestamp": "2025-12-01T23:05:32.206110"
+      }
+    ]
+  }
+]
